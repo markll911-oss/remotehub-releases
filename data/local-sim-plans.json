@@ -9128,6 +9128,977 @@
      "checked": "2025-08"
     }
    ]
+  },
+  "EG": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Vodafone Egypt",
+     "name": "10GB 30-day",
+     "dataGb": 10.0,
+     "days": 30,
+     "price": 9.0,
+     "source": "https://gigago.com/egypt-sim-card/",
+     "checked": "2024-06-07"
+    },
+    {
+     "operator": "Vodafone Egypt",
+     "name": "30GB 30-day",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 18.0,
+     "source": "https://gigago.com/egypt-sim-card/",
+     "checked": "2024-06-07"
+    },
+    {
+     "operator": "Orange Egypt",
+     "name": "10GB 30-day",
+     "dataGb": 10.0,
+     "days": 30,
+     "price": 8.0,
+     "source": "https://gigago.com/egypt-sim-card/",
+     "checked": "2024-06-07"
+    },
+    {
+     "operator": "Orange Egypt",
+     "name": "40GB 30-day",
+     "dataGb": 40.0,
+     "days": 30,
+     "price": 18.0,
+     "source": "https://gigago.com/egypt-sim-card/",
+     "checked": "2024-06-07"
+    }
+   ]
+  },
+  "IT": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "TIM",
+     "name": "TIM Tourist",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 26.5,
+     "extras": "13 GB in EU, unlimited chat data",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "TIM",
+     "name": "Solo Giga Power 50",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 10.5,
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "TIM",
+     "name": "Solo Giga Power 100",
+     "dataGb": 100.0,
+     "days": 30,
+     "price": 15.9,
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "TIM",
+     "name": "Solo Giga Power 150",
+     "dataGb": 150.0,
+     "days": 30,
+     "price": 21.2,
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "Vodafone IT",
+     "name": "Dolce Vita",
+     "unlimited": true,
+     "days": 30,
+     "price": 26.75,
+     "extras": "16.4 GB in EU, 150 intl minutes",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "Vodafone IT",
+     "name": "Giga Power 100",
+     "dataGb": 100.0,
+     "days": 30,
+     "price": 21.4,
+     "extras": "13.7 GB in EU",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "Vodafone IT",
+     "name": "Giga Power Unlimited",
+     "unlimited": true,
+     "days": 30,
+     "price": 35.7,
+     "extras": "27.4 GB in EU",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Young 5G",
+     "dataGb": 100.0,
+     "days": 30,
+     "price": 10.5,
+     "extras": "unlimited minutes and SMS",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Di Più Lite",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 13.85,
+     "extras": "unlimited minutes, 200 SMS",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Di Più Lite 5G",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 13.85,
+     "extras": "unlimited minutes, 200 SMS",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Cube Lite",
+     "dataGb": 70.0,
+     "days": 30,
+     "price": 10.5,
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Cube Full",
+     "dataGb": 150.0,
+     "days": 30,
+     "price": 13.85,
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Internet Card 150GB",
+     "dataGb": 150.0,
+     "days": 90,
+     "price": 21.25,
+     "extras": "valid 3 months",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "WindTre",
+     "name": "Internet Card 300GB",
+     "dataGb": 300.0,
+     "days": 90,
+     "price": 26.45,
+     "extras": "valid 3 months",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "Iliad",
+     "name": "Flash 70",
+     "dataGb": 70.0,
+     "days": 30,
+     "price": 12.7,
+     "extras": "unlimited minutes and texts in Italy",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    },
+    {
+     "operator": "Iliad",
+     "name": "GIGA 120",
+     "dataGb": 120.0,
+     "days": 30,
+     "price": 16.8,
+     "extras": "9 GB in EU, unlimited minutes",
+     "source": "https://gigago.com/italy-sim-card/",
+     "checked": "2026-02-02"
+    }
+   ]
+  },
+  "PH": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Globe",
+     "name": "10GB 7-day",
+     "dataGb": 10.0,
+     "days": 7,
+     "price": 5.58,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Globe",
+     "name": "20GB 15-day",
+     "dataGb": 20.0,
+     "days": 15,
+     "price": 9.31,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Globe",
+     "name": "40GB 30-day",
+     "dataGb": 40.0,
+     "days": 30,
+     "price": 18.61,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Smart",
+     "name": "4GB 7-day",
+     "dataGb": 4.0,
+     "days": 7,
+     "price": 6.5,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Smart",
+     "name": "8GB 15-day",
+     "dataGb": 8.0,
+     "days": 15,
+     "price": 13.01,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Smart",
+     "name": "12GB 30-day",
+     "dataGb": 12.0,
+     "days": 30,
+     "price": 18.59,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Smart",
+     "name": "24GB 30-day",
+     "dataGb": 24.0,
+     "days": 30,
+     "price": 27.9,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "Smart",
+     "name": "36GB 30-day",
+     "dataGb": 36.0,
+     "days": 30,
+     "price": 37.21,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "DITO",
+     "name": "7GB 30-day",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 1.78,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "DITO",
+     "name": "16GB 30-day",
+     "dataGb": 16.0,
+     "days": 30,
+     "price": 3.59,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "DITO",
+     "name": "28GB 30-day",
+     "dataGb": 28.0,
+     "days": 30,
+     "price": 5.39,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "DITO",
+     "name": "55GB 30-day",
+     "dataGb": 55.0,
+     "days": 30,
+     "price": 8.99,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    },
+    {
+     "operator": "DITO",
+     "name": "120GB 30-day",
+     "dataGb": 120.0,
+     "days": 30,
+     "price": 18.0,
+     "source": "https://gigago.com/philippines-sim-card/",
+     "checked": "2025-02-10"
+    }
+   ]
+  },
+  "KH": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Metfone",
+     "name": "200MB 1-day",
+     "dataGb": 0.2,
+     "days": 1,
+     "price": 0.2,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Metfone",
+     "name": "1.5GB 7-day",
+     "dataGb": 1.5,
+     "days": 7,
+     "price": 1.5,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Metfone",
+     "name": "3GB 30-day",
+     "dataGb": 3.0,
+     "days": 30,
+     "price": 3.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Metfone",
+     "name": "5GB 30-day",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 5.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Smart Axiata",
+     "name": "30GB 7-day",
+     "dataGb": 30.0,
+     "days": 7,
+     "price": 5.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Cellcard",
+     "name": "4GB 7-day",
+     "dataGb": 4.0,
+     "days": 7,
+     "price": 2.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Cellcard",
+     "name": "8GB 30-day",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 5.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    },
+    {
+     "operator": "Cellcard",
+     "name": "18GB 30-day",
+     "dataGb": 18.0,
+     "days": 30,
+     "price": 10.0,
+     "source": "https://gigago.com/cambodia-sim-card/",
+     "checked": "2025-02-11"
+    }
+   ]
+  },
+  "LA": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Unitel Laos",
+     "name": "80GB 30-day",
+     "dataGb": 80.0,
+     "days": 30,
+     "price": 4.74,
+     "extras": "promotion; calls $0.01 a minute",
+     "source": "https://gigago.com/laos-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel Laos",
+     "name": "60GB 30-day",
+     "dataGb": 60.0,
+     "days": 30,
+     "price": 3.83,
+     "extras": "promotion; calls $0.01 a minute",
+     "source": "https://gigago.com/laos-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel Laos",
+     "name": "30GB 30-day",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 1.92,
+     "extras": "promotion; calls $0.01 a minute",
+     "source": "https://gigago.com/laos-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel Laos",
+     "name": "5GB 30-day",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 0.49,
+     "extras": "promotion; calls $0.01 a minute",
+     "source": "https://gigago.com/laos-sim-card/",
+     "checked": "2025-02-03"
+    }
+   ]
+  },
+  "FI": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "DNA",
+     "name": "Dataprepaid",
+     "unlimited": true,
+     "days": 30,
+     "price": 25.0,
+     "extras": "approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Elisa",
+     "name": "Combination Package S",
+     "unlimited": true,
+     "days": 30,
+     "price": 33.0,
+     "extras": "32 GB in EU; approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Elisa",
+     "name": "Combination Package M",
+     "unlimited": true,
+     "days": 30,
+     "price": 38.0,
+     "extras": "37 GB in EU; approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Elisa",
+     "name": "Combination Package L",
+     "unlimited": true,
+     "days": 30,
+     "price": 44.0,
+     "extras": "42 GB in EU; approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Telia FI",
+     "name": "S-Package",
+     "dataGb": 1.0,
+     "days": 31,
+     "price": 10.8,
+     "extras": "100 min, 100 SMS; approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Telia FI",
+     "name": "M-Package",
+     "dataGb": 5.0,
+     "days": 31,
+     "price": 21.8,
+     "extras": "500 min, 500 SMS; approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Telia FI",
+     "name": "Unlimited 4G L-Package",
+     "unlimited": true,
+     "days": 31,
+     "price": 32.7,
+     "extras": "approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    },
+    {
+     "operator": "Telia FI",
+     "name": "Unlimited 5G XL-Package",
+     "unlimited": true,
+     "days": 31,
+     "price": 38.0,
+     "extras": "approximate price",
+     "source": "https://gigago.com/finland-sim-card/",
+     "checked": "2025-05-14"
+    }
+   ]
+  },
+  "WS": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Digicel",
+     "name": "10GB 7-day data",
+     "dataGb": 10.0,
+     "days": 7,
+     "price": 5.5,
+     "source": "https://gigago.com/samoa-sim-card/",
+     "checked": "2024-10-23"
+    },
+    {
+     "operator": "Digicel",
+     "name": "15GB 7-day data",
+     "dataGb": 15.0,
+     "days": 7,
+     "price": 7.4,
+     "source": "https://gigago.com/samoa-sim-card/",
+     "checked": "2024-10-23"
+    },
+    {
+     "operator": "Digicel",
+     "name": "20GB 14-day data",
+     "dataGb": 20.0,
+     "days": 14,
+     "price": 11.0,
+     "source": "https://gigago.com/samoa-sim-card/",
+     "checked": "2024-10-23"
+    },
+    {
+     "operator": "Digicel",
+     "name": "100GB 28-day data",
+     "dataGb": 100.0,
+     "days": 28,
+     "price": 37.0,
+     "source": "https://gigago.com/samoa-sim-card/",
+     "checked": "2024-10-23"
+    },
+    {
+     "operator": "Vodafone Samoa",
+     "name": "20GB + 50 min 15-day",
+     "dataGb": 20.0,
+     "days": 15,
+     "price": 18.0,
+     "extras": "50 min; 100 min to AU/NZ",
+     "source": "https://gigago.com/samoa-sim-card/",
+     "checked": "2024-10-23"
+    }
+   ]
+  },
+  "BS": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "BTC",
+     "name": "3.5GB 10-day data",
+     "dataGb": 3.5,
+     "days": 10,
+     "price": 11.0,
+     "extras": "rollover data",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "3.5GB 30-day data",
+     "dataGb": 3.5,
+     "days": 30,
+     "price": 18.0,
+     "extras": "rollover data",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "7GB 30-day data",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 32.0,
+     "extras": "rollover data",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "2GB 1-day combo",
+     "dataGb": 2.0,
+     "days": 1,
+     "price": 5.0,
+     "extras": "100 intl min; unlimited BTC calls",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "1GB 7-day combo",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 8.0,
+     "extras": "60 intl min; unlimited BTC/ALIV calls",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "3GB 7-day combo",
+     "dataGb": 3.0,
+     "days": 7,
+     "price": 15.0,
+     "extras": "unlimited calls incl. US and Canada",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "BTC",
+     "name": "6GB 30-day combo",
+     "dataGb": 6.0,
+     "days": 30,
+     "price": 39.0,
+     "extras": "unlimited BTC/ALIV calls",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Freedom 5 1-day",
+     "dataGb": 2.0,
+     "days": 1,
+     "price": 5.0,
+     "extras": "30 min; unlimited WhatsApp messaging",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Freedom 8 7-day",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 8.0,
+     "extras": "unlimited minutes; WhatsApp messaging",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Freedom 15 7-day",
+     "dataGb": 3.0,
+     "days": 7,
+     "price": 15.0,
+     "extras": "unlimited minutes; WhatsApp messaging",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Freedom 45 7-day",
+     "unlimited": true,
+     "days": 7,
+     "price": 45.0,
+     "extras": "unlimited minutes",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Liberty 40 30-day",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 40.0,
+     "extras": "unlimited minutes; WhatsApp messaging",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Liberty 70 30-day",
+     "dataGb": 14.0,
+     "days": 30,
+     "price": 70.0,
+     "extras": "unlimited minutes; WhatsApp messaging",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    },
+    {
+     "operator": "Aliv",
+     "name": "Liberty 120 30-day",
+     "unlimited": true,
+     "days": 30,
+     "price": 120.0,
+     "extras": "unlimited minutes",
+     "source": "https://gigago.com/bahamas-sim-card/",
+     "checked": "2025-03-18"
+    }
+   ]
+  },
+  "LR": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "500MB 1-day data",
+     "dataGb": 0.5,
+     "days": 1,
+     "price": 1.0,
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "2GB 1-day data",
+     "dataGb": 2.0,
+     "days": 1,
+     "price": 5.0,
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "10GB 30-day data",
+     "dataGb": 10.0,
+     "days": 30,
+     "price": 20.0,
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "20GB 30-day data",
+     "dataGb": 20.0,
+     "days": 30,
+     "price": 40.0,
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "40GB 30-day data",
+     "dataGb": 40.0,
+     "days": 30,
+     "price": 60.0,
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "3GB 5-day bundle",
+     "dataGb": 3.0,
+     "days": 5,
+     "price": 5.0,
+     "extras": "1500 on-net min, 100 SMS",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "10GB 15-day bundle",
+     "dataGb": 10.0,
+     "days": 15,
+     "price": 15.0,
+     "extras": "1500 on-net min, 200 SMS",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Lonestar Cell MTN",
+     "name": "20GB 30-day bundle",
+     "dataGb": 20.0,
+     "days": 30,
+     "price": 30.0,
+     "extras": "1500 on-net min, 300 SMS",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Orange Liberia",
+     "name": "2GB 30-day bundle",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 29.0,
+     "extras": "700 on-net, 150 off-net min",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Orange Liberia",
+     "name": "20GB 30-day bundle",
+     "dataGb": 20.0,
+     "days": 30,
+     "price": 49.0,
+     "extras": "unlimited on-net; 500 off-net min",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Orange Liberia",
+     "name": "30GB 30-day bundle",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 79.0,
+     "extras": "unlimited on-net; 500 off-net min",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    },
+    {
+     "operator": "Orange Liberia",
+     "name": "50GB 30-day bundle",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 99.0,
+     "extras": "unlimited on-net; 500 off-net min",
+     "source": "https://gigago.com/liberia-sim-card/",
+     "checked": "2024-09-05"
+    }
+   ]
+  },
+  "LV": {
+   "currency": "USD",
+   "plans": [
+    {
+     "operator": "LMT",
+     "name": "Internet for a Day",
+     "unlimited": true,
+     "days": 1,
+     "price": 0.5,
+     "extras": "approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "LMT",
+     "name": "Week for Internet",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 2.0,
+     "extras": "30 min calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "LMT",
+     "name": "Week for Internet+",
+     "unlimited": true,
+     "days": 7,
+     "price": 4.0,
+     "extras": "30 min calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "LMT",
+     "name": "Week for All",
+     "unlimited": true,
+     "days": 7,
+     "price": 5.0,
+     "extras": "unlimited calls and SMS; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "LMT",
+     "name": "Month for All",
+     "unlimited": true,
+     "days": 30,
+     "price": 25.0,
+     "extras": "unlimited calls and SMS; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Tele2 LV",
+     "name": "Unlimited Internet",
+     "unlimited": true,
+     "days": 7,
+     "price": 3.0,
+     "extras": "10 min calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Tele2 LV",
+     "name": "Unlimited for everything",
+     "unlimited": true,
+     "days": 7,
+     "price": 4.5,
+     "extras": "unlimited calls and SMS; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Bite LV",
+     "name": "Bee 1.5GB",
+     "dataGb": 1.5,
+     "days": 30,
+     "price": 13.0,
+     "extras": "unlimited Latvia calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Bite LV",
+     "name": "Bee 4GB",
+     "dataGb": 4.0,
+     "days": 30,
+     "price": 16.0,
+     "extras": "unlimited Latvia calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Bite LV",
+     "name": "Bee 8GB",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 21.0,
+     "extras": "unlimited Latvia calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Bite LV",
+     "name": "Bite 30GB",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 23.0,
+     "extras": "unlimited Latvia calls; approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    },
+    {
+     "operator": "Bite LV",
+     "name": "Bite Unlimited in the Baltics",
+     "unlimited": true,
+     "days": 30,
+     "price": 28.0,
+     "extras": "approximate price",
+     "source": "https://gigago.com/latvia-sim-card/",
+     "checked": "2024-11-07"
+    }
+   ]
   }
  }
 }
