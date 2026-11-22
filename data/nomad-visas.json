@@ -19,27 +19,6 @@
    "feeNote": "Plus UAE medical insurance and processing fees",
    "feeNoteAr": "يضاف التأمين الصحي الإماراتي ورسوم المعالجة"
   },
-  "AG": {
-   "visa": "Nomad Digital Residence",
-   "applyUrl": "https://antiguanomadresidence.com/",
-   "source": "https://antigua-barbuda.com/ova_sev/nomad-digital-residence-visa-programme/",
-   "authority": "Government of Antigua and Barbuda (official site)",
-   "authorityAr": "حكومة أنتيغوا وباربودا (الموقع الرسمي)",
-   "renewable": false,
-   "checked": "2026-11-23",
-   "stayMonths": 24,
-   "minIncome": {
-    "amount": 50000,
-    "currency": "USD",
-    "per": "year"
-   },
-   "fee": {
-    "amount": 1500,
-    "currency": "USD"
-   },
-   "feeNote": "Couple USD 2,000; family of 3+ USD 3,000",
-   "feeNoteAr": "للزوجين 2,000 دولار؛ للعائلة من 3 فأكثر 3,000 دولار"
-  },
   "AR": {
    "visa": "Transitory residence – digital nomad",
    "applyUrl": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
