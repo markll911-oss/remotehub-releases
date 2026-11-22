@@ -4699,6 +4699,387 @@
     }
    ]
   },
+  "BW": {
+   "currency": "BWP",
+   "plans": [
+    {
+     "operator": "Orange Botswana",
+     "name": "Mega Bundle 10 GB",
+     "dataGb": 10.0,
+     "days": 60,
+     "price": 1399.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Botswana",
+     "name": "Mega Bundle 5 GB",
+     "dataGb": 5.0,
+     "days": 60,
+     "price": 799.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Botswana",
+     "name": "Mega Bundle 2 GB",
+     "dataGb": 2.0,
+     "days": 60,
+     "price": 399.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Botswana",
+     "name": "All My Internet Plus 4 GB",
+     "dataGb": 4.0,
+     "days": 30,
+     "price": 240.0,
+     "extras": "plus 4 GB night bonus",
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Botswana",
+     "name": "All My Internet Plus 2 GB",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 125.0,
+     "extras": "plus 2 GB night bonus",
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Botswana",
+     "name": "All My Internet Plus 1 GB",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 75.0,
+     "extras": "plus 1 GB night bonus",
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 35 GB",
+     "dataGb": 35.0,
+     "days": 30,
+     "price": 525.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 17 GB",
+     "dataGb": 17.0,
+     "days": 30,
+     "price": 279.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 8.5 GB",
+     "dataGb": 8.5,
+     "days": 30,
+     "price": 149.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 4.5 GB",
+     "dataGb": 4.5,
+     "days": 30,
+     "price": 99.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 3.5 GB",
+     "dataGb": 3.5,
+     "days": 14,
+     "price": 85.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Mascom",
+     "name": "MyMix 2 GB",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 69.0,
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "BTC",
+     "name": "Voice and Data Bundle 1 GB",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 100.0,
+     "extras": "unlimited on-net minutes; 50 cross-net",
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "BTC",
+     "name": "Voice and Data Bundle 200 MB",
+     "dataGb": 0.2,
+     "days": 7,
+     "price": 30.0,
+     "extras": "unlimited on-net minutes; 30 cross-net",
+     "source": "https://gigago.com/botswana-sim-card/",
+     "checked": "2025-01-21"
+    }
+   ]
+  },
+  "CV": {
+   "currency": "CVE",
+   "plans": [
+    {
+     "operator": "CVMóvel",
+     "name": "Monthly Light 1 GB",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 490.0,
+     "extras": "speed 2 Mbps",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "CVMóvel",
+     "name": "Monthly 3 GB",
+     "dataGb": 3.0,
+     "days": 30,
+     "price": 850.0,
+     "extras": "speed 2 Mbps",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "CVMóvel",
+     "name": "Platinum 10 GB",
+     "dataGb": 10.0,
+     "days": 30,
+     "price": 2500.0,
+     "extras": "speed 7 Mbps",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "CVMóvel",
+     "name": "Monthly Base 1.3 GB",
+     "dataGb": 1.3,
+     "days": 30,
+     "price": 690.0,
+     "extras": "speed 14 Mbps",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "CVMóvel",
+     "name": "Premium 5 GB",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 1250.0,
+     "extras": "speed 14 Mbps",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel T+",
+     "name": "Mobile Internet 250 MB",
+     "dataGb": 0.25,
+     "days": 7,
+     "price": 250.0,
+     "extras": "dial #450#",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel T+",
+     "name": "Mobile Internet 1 GB",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 500.0,
+     "extras": "dial #450#",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    },
+    {
+     "operator": "Unitel T+",
+     "name": "Mobile Internet 5 GB",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 1250.0,
+     "extras": "dial #450#",
+     "source": "https://gigago.com/cape-verde-sim-card/",
+     "checked": "2025-02-03"
+    }
+   ]
+  },
+  "GA": {
+   "currency": "XAF",
+   "plans": [
+    {
+     "operator": "Airtel Gabon",
+     "name": "2.5 GB package",
+     "dataGb": 2.5,
+     "days": 7,
+     "price": 5000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Airtel Gabon",
+     "name": "5 GB package",
+     "dataGb": 5.0,
+     "days": 14,
+     "price": 8000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Airtel Gabon",
+     "name": "7 GB package",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 10000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Airtel Gabon",
+     "name": "10 GB package",
+     "dataGb": 10.0,
+     "days": 7,
+     "price": 10000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Airtel Gabon",
+     "name": "15 GB package",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 20000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Airtel Gabon",
+     "name": "25 GB package",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 30000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "2.5 GB package",
+     "dataGb": 2.5,
+     "days": 14,
+     "price": 5000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "5 GB package",
+     "dataGb": 5.0,
+     "days": 14,
+     "price": 7500.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "7 GB package",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 10000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "15 GB package",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 20000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "25 GB package",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 30000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    },
+    {
+     "operator": "Moov Africa Gabon",
+     "name": "50 GB package",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 40000.0,
+     "extras": "plus 1000 XAF one-time registration",
+     "source": "https://gigago.com/gabon-sim-card/",
+     "checked": "2024-08-28"
+    }
+   ]
+  },
+  "GM": {
+   "currency": "GMD",
+   "plans": [
+    {
+     "operator": "Africell Gambia",
+     "name": "Mix Bundle 250 MB",
+     "dataGb": 0.25,
+     "days": 30,
+     "price": 50.0,
+     "extras": "1000 free SMS; dial *120*6#",
+     "source": "https://gigago.com/gambia-sim-card/",
+     "checked": "2025-04-09"
+    },
+    {
+     "operator": "Africell Gambia",
+     "name": "Mix Bundle 750 MB",
+     "dataGb": 0.75,
+     "days": 30,
+     "price": 100.0,
+     "extras": "2000 free SMS; dial *120*6#",
+     "source": "https://gigago.com/gambia-sim-card/",
+     "checked": "2025-04-09"
+    },
+    {
+     "operator": "Africell Gambia",
+     "name": "Mix Bundle 1.5 GB",
+     "dataGb": 1.5,
+     "days": 30,
+     "price": 150.0,
+     "extras": "3000 free SMS; dial *120*6#",
+     "source": "https://gigago.com/gambia-sim-card/",
+     "checked": "2025-04-09"
+    }
+   ]
+  },
   "GW": {
    "currency": "XOF",
    "plans": [
@@ -4856,6 +5237,751 @@
      "price": 800.0,
      "source": "https://gigago.com/mozambique-sim-card/",
      "checked": "2025-03"
+    }
+   ]
+  },
+  "NE": {
+   "currency": "XOF",
+   "plans": [
+    {
+     "operator": "Airtel Niger",
+     "name": "2.5 GB 7-day",
+     "dataGb": 2.5,
+     "days": 7,
+     "price": 2000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Airtel Niger",
+     "name": "4 GB 7-day",
+     "dataGb": 4.0,
+     "days": 7,
+     "price": 3000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Airtel Niger",
+     "name": "4 GB 30-day",
+     "dataGb": 4.0,
+     "days": 30,
+     "price": 5000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Airtel Niger",
+     "name": "12 GB 30-day",
+     "dataGb": 12.0,
+     "days": 30,
+     "price": 10000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Airtel Niger",
+     "name": "30 GB 30-day",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 20000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Zamani Telecom",
+     "name": "2 GB 7-day",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 2000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Zamani Telecom",
+     "name": "5 GB 30-day",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 5000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Zamani Telecom",
+     "name": "12 GB 30-day",
+     "dataGb": 12.0,
+     "days": 30,
+     "price": 10000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Zamani Telecom",
+     "name": "30 GB 30-day",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 20000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Moov Africa Niger",
+     "name": "2 GB 7-day",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 1000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Moov Africa Niger",
+     "name": "3 GB 7-day",
+     "dataGb": 3.0,
+     "days": 7,
+     "price": 2000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Moov Africa Niger",
+     "name": "6 GB 30-day",
+     "dataGb": 6.0,
+     "days": 30,
+     "price": 5000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Moov Africa Niger",
+     "name": "15 GB 30-day",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 10000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    },
+    {
+     "operator": "Moov Africa Niger",
+     "name": "40 GB 30-day",
+     "dataGb": 40.0,
+     "days": 30,
+     "price": 20000.0,
+     "source": "https://gigago.com/niger-sim-card/",
+     "checked": "2024-08-21"
+    }
+   ]
+  },
+  "RE": {
+   "currency": "EUR",
+   "plans": [
+    {
+     "operator": "SFR Réunion",
+     "name": "1 GB monthly package",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 24.99,
+     "extras": "unlimited calls and SMS off-net",
+     "source": "https://gigago.com/reunion-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "SFR Réunion",
+     "name": "20 GB monthly package",
+     "dataGb": 20.0,
+     "days": 30,
+     "price": 29.99,
+     "extras": "unlimited calls and SMS off-net",
+     "source": "https://gigago.com/reunion-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "SFR Réunion",
+     "name": "60 GB monthly package",
+     "dataGb": 60.0,
+     "days": 30,
+     "price": 39.99,
+     "extras": "unlimited calls and SMS off-net",
+     "source": "https://gigago.com/reunion-sim-card/",
+     "checked": "2025-01-21"
+    }
+   ]
+  },
+  "SZ": {
+   "currency": "SZL",
+   "plans": [
+    {
+     "operator": "MTN Eswatini",
+     "name": "Toti Toti 15 GB 24-hour",
+     "dataGb": 15.0,
+     "days": 1,
+     "price": 100.0,
+     "source": "https://gigago.com/eswatini-sim-card/",
+     "checked": "2024-10-28"
+    },
+    {
+     "operator": "MTN Eswatini",
+     "name": "Toti Toti 50 GB monthly",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 1499.0,
+     "source": "https://gigago.com/eswatini-sim-card/",
+     "checked": "2024-10-28"
+    },
+    {
+     "operator": "Eswatini Mobile",
+     "name": "1 GB 30-day",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 195.0,
+     "extras": "500 on-net min, 100 off-net min",
+     "source": "https://gigago.com/eswatini-sim-card/",
+     "checked": "2024-10-28"
+    },
+    {
+     "operator": "Eswatini Mobile",
+     "name": "2 GB 30-day",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 295.0,
+     "extras": "750 on-net min, 200 off-net min",
+     "source": "https://gigago.com/eswatini-sim-card/",
+     "checked": "2024-10-28"
+    }
+   ]
+  },
+  "ZM": {
+   "currency": "ZMW",
+   "plans": [
+    {
+     "operator": "Airtel Zambia",
+     "name": "2 GB weekly",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 20.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Airtel Zambia",
+     "name": "6 GB weekly",
+     "dataGb": 6.0,
+     "days": 7,
+     "price": 50.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Airtel Zambia",
+     "name": "5 GB monthly",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 60.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Airtel Zambia",
+     "name": "10 GB monthly",
+     "dataGb": 10.0,
+     "days": 30,
+     "price": 100.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Airtel Zambia",
+     "name": "25 GB monthly",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 200.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "MTN Zambia",
+     "name": "20 GB monthly",
+     "dataGb": 20.0,
+     "days": 30,
+     "price": 300.0,
+     "extras": "150 minutes, 300 SMS",
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Zamtel",
+     "name": "unlimited data weekly",
+     "unlimited": true,
+     "days": 7,
+     "price": 82.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Zamtel",
+     "name": "unlimited voice and data weekly",
+     "unlimited": true,
+     "days": 7,
+     "price": 138.0,
+     "extras": "unlimited voice and data",
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Zamtel",
+     "name": "unlimited data monthly",
+     "unlimited": true,
+     "days": 30,
+     "price": 320.0,
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    },
+    {
+     "operator": "Zamtel",
+     "name": "unlimited voice and data monthly",
+     "unlimited": true,
+     "days": 30,
+     "price": 550.0,
+     "extras": "unlimited voice and data",
+     "source": "https://gigago.com/zambia-sim-card/",
+     "checked": "2024-09-23"
+    }
+   ]
+  },
+  "IL": {
+   "currency": "ILS",
+   "plans": [
+    {
+     "operator": "Partner",
+     "name": "Basic 10GB weekly",
+     "dataGb": 10.0,
+     "days": 7,
+     "price": 50.0,
+     "extras": "5000 minutes and 5000 SMS in Israel",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Partner",
+     "name": "Standard 70GB monthly",
+     "dataGb": 70.0,
+     "days": 30,
+     "price": 60.0,
+     "extras": "3000 minutes and 3000 SMS in Israel",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Partner",
+     "name": "Enhanced 100GB monthly",
+     "dataGb": 100.0,
+     "days": 30,
+     "price": 99.0,
+     "extras": "5000 minutes and 5000 SMS in Israel",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Partner",
+     "name": "Premium 150GB monthly",
+     "dataGb": 150.0,
+     "days": 30,
+     "price": 139.0,
+     "extras": "Unlimited calls and SMS in Israel",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Partner",
+     "name": "Ultimate 200GB monthly",
+     "dataGb": 200.0,
+     "days": 30,
+     "price": 149.0,
+     "extras": "Unlimited calls and SMS in Israel",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Pelephone",
+     "name": "125GB monthly",
+     "dataGb": 125.0,
+     "days": 30,
+     "price": 59.0,
+     "extras": "Unlimited calls, SMS; unlimited social apps",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Pelephone",
+     "name": "250GB monthly",
+     "dataGb": 250.0,
+     "days": 30,
+     "price": 79.0,
+     "extras": "30 NIS intl calls; unlimited social apps",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Pelephone",
+     "name": "500GB monthly",
+     "dataGb": 500.0,
+     "days": 30,
+     "price": 99.0,
+     "extras": "Unlimited calls, SMS; unlimited social apps",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    },
+    {
+     "operator": "Pelephone",
+     "name": "1000GB monthly",
+     "dataGb": 1000.0,
+     "days": 30,
+     "price": 140.0,
+     "extras": "70 NIS intl calls; unlimited social apps",
+     "source": "https://gigago.com/israel-sim-card/",
+     "checked": "2025-03-20"
+    }
+   ]
+  },
+  "YE": {
+   "currency": "YER",
+   "plans": [
+    {
+     "operator": "Yemen Mobile",
+     "name": "1GB weekly",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 1500.0,
+     "source": "https://gigago.com/yemen-sim-card/",
+     "checked": "2024-11-04"
+    },
+    {
+     "operator": "Yemen Mobile",
+     "name": "3GB 14-day",
+     "dataGb": 3.0,
+     "days": 14,
+     "price": 2500.0,
+     "source": "https://gigago.com/yemen-sim-card/",
+     "checked": "2024-11-04"
+    },
+    {
+     "operator": "Yemen Mobile",
+     "name": "5GB monthly",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 4000.0,
+     "source": "https://gigago.com/yemen-sim-card/",
+     "checked": "2024-11-04"
+    },
+    {
+     "operator": "Yemen Mobile",
+     "name": "Calls and data combo 1GB",
+     "dataGb": 1.0,
+     "days": 30,
+     "price": 5000.0,
+     "extras": "100 local minutes included",
+     "source": "https://gigago.com/yemen-sim-card/",
+     "checked": "2024-11-04"
+    }
+   ]
+  },
+  "BN": {
+   "currency": "BND",
+   "plans": [
+    {
+     "operator": "DST",
+     "name": "Easi data 1GB 1-day",
+     "dataGb": 1.0,
+     "days": 1,
+     "price": 3.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "DST",
+     "name": "Easi data 2GB 3-day",
+     "dataGb": 2.0,
+     "days": 3,
+     "price": 5.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "DST",
+     "name": "Easi data 5GB weekly",
+     "dataGb": 5.0,
+     "days": 7,
+     "price": 10.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "DST",
+     "name": "Easi data 8GB monthly",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 20.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "DST",
+     "name": "Easi data 15GB monthly",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 40.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "DST",
+     "name": "Easi data 25GB monthly",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 60.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 1GB 3-day",
+     "dataGb": 1.0,
+     "days": 3,
+     "price": 3.0,
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 3GB 3-day",
+     "dataGb": 3.0,
+     "days": 3,
+     "price": 8.0,
+     "extras": "Bonus 300 MB included",
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 6GB weekly",
+     "dataGb": 6.0,
+     "days": 7,
+     "price": 15.0,
+     "extras": "Bonus 800 MB included",
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 4GB monthly",
+     "dataGb": 4.0,
+     "days": 30,
+     "price": 9.0,
+     "extras": "Bonus 300 MB included",
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 7GB monthly",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 17.0,
+     "extras": "Bonus 1.1 GB included",
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    },
+    {
+     "operator": "Progresif",
+     "name": "Data add-on 13GB monthly",
+     "dataGb": 13.0,
+     "days": 30,
+     "price": 30.0,
+     "extras": "Bonus 1.7 GB included",
+     "source": "https://gigago.com/brunei-sim-card/",
+     "checked": "2024-11-01"
+    }
+   ]
+  },
+  "KZ": {
+   "currency": "KZT",
+   "plans": [
+    {
+     "operator": "Kcell",
+     "name": "Internet+ 400MB daily",
+     "dataGb": 0.4,
+     "days": 1,
+     "price": 130.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Kcell",
+     "name": "Internet 2GB monthly",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 990.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Kcell",
+     "name": "Internet 4GB monthly",
+     "dataGb": 4.0,
+     "days": 30,
+     "price": 1490.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Kcell",
+     "name": "Internet 8GB monthly",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 1890.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Kcell",
+     "name": "UNLIM 25GB monthly",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 4000.0,
+     "extras": "Unlimited social; 250 off-net minutes; 100 SMS",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Kcell",
+     "name": "UNLIM unlimited monthly",
+     "unlimited": true,
+     "days": 30,
+     "price": 8000.0,
+     "extras": "Unlimited on-net calls; 250 off-net minutes",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Beeline Kazakhstan",
+     "name": "13GB monthly",
+     "dataGb": 13.0,
+     "days": 30,
+     "price": 3990.0,
+     "extras": "Unlimited on-net; 110 off-net minutes",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Beeline Kazakhstan",
+     "name": "25GB monthly",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 4990.0,
+     "extras": "Unlimited on-net; 210 off-net minutes",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Beeline Kazakhstan",
+     "name": "33GB monthly",
+     "dataGb": 33.0,
+     "days": 30,
+     "price": 5990.0,
+     "extras": "Unlimited on-net; 310 off-net minutes",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Beeline Kazakhstan",
+     "name": "44GB monthly",
+     "dataGb": 44.0,
+     "days": 30,
+     "price": 6990.0,
+     "extras": "Unlimited on-net; 410 off-net minutes",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Tele2 / Altel",
+     "name": "7GB monthly",
+     "dataGb": 7.0,
+     "days": 30,
+     "price": 1090.0,
+     "extras": "Unlimited on-net; 50 off-net minutes; 200 SMS",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Tele2 / Altel",
+     "name": "5GB 31-day",
+     "dataGb": 5.0,
+     "days": 31,
+     "price": 2790.0,
+     "extras": "Unlimited on-net; 50 off-net min; 50 SMS",
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Tele2 / Altel",
+     "name": "Unlimited 1-day",
+     "unlimited": true,
+     "days": 1,
+     "price": 180.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Tele2 / Altel",
+     "name": "2GB monthly add-on",
+     "dataGb": 2.0,
+     "days": 30,
+     "price": 890.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    },
+    {
+     "operator": "Tele2 / Altel",
+     "name": "8GB monthly add-on",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 1690.0,
+     "source": "https://gigago.com/kazakhstan-sim-card/",
+     "checked": "2024-10-30"
+    }
+   ]
+  },
+  "TJ": {
+   "currency": "TJS",
+   "plans": [
+    {
+     "operator": "Tcell",
+     "name": "Salom 15GB monthly",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 130.0,
+     "extras": "40GB social data; 60 min; 60 texts",
+     "source": "https://gigago.com/tajikistan-sim-card/",
+     "checked": "2024-08-15"
+    },
+    {
+     "operator": "Tcell",
+     "name": "Salom 25GB monthly",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 180.0,
+     "extras": "60GB social data; 100 min; 100 texts",
+     "source": "https://gigago.com/tajikistan-sim-card/",
+     "checked": "2024-08-15"
+    },
+    {
+     "operator": "Tcell",
+     "name": "Salom 50GB monthly",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 300.0,
+     "extras": "100GB social data; 300 min; 100 texts",
+     "source": "https://gigago.com/tajikistan-sim-card/",
+     "checked": "2024-08-15"
     }
    ]
   },
@@ -5166,6 +6292,412 @@
      "price": 2900.0,
      "source": "https://gigago.com/iceland-sim-card/",
      "checked": "2024-11-21"
+    }
+   ]
+  },
+  "GN": {
+   "currency": "GNF",
+   "plans": [
+    {
+     "operator": "Orange Guinée",
+     "name": "1 GB 7-day",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 20000.0,
+     "source": "https://gigago.com/guinea-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Guinée",
+     "name": "5 GB 30-day",
+     "dataGb": 5.0,
+     "days": 30,
+     "price": 100000.0,
+     "source": "https://gigago.com/guinea-sim-card/",
+     "checked": "2025-01-21"
+    },
+    {
+     "operator": "Orange Guinée",
+     "name": "Unlimited 30-day",
+     "unlimited": true,
+     "days": 30,
+     "price": 150000.0,
+     "source": "https://gigago.com/guinea-sim-card/",
+     "checked": "2025-01-21"
+    }
+   ]
+  },
+  "LS": {
+   "currency": "ZAR",
+   "plans": [
+    {
+     "operator": "Vodacom Lesotho",
+     "name": "1 GB 1-day",
+     "dataGb": 1.0,
+     "days": 1,
+     "price": 19.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Vodacom Lesotho",
+     "name": "1 GB 3-day",
+     "dataGb": 1.0,
+     "days": 3,
+     "price": 24.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Vodacom Lesotho",
+     "name": "2 GB 7-day",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 50.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Vodacom Lesotho",
+     "name": "15 GB 30-day",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 520.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Econet Telecom Lesotho",
+     "name": "200 MB 1-day",
+     "dataGb": 0.2,
+     "days": 1,
+     "price": 8.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Econet Telecom Lesotho",
+     "name": "2 GB 7-day",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 50.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    },
+    {
+     "operator": "Econet Telecom Lesotho",
+     "name": "12 GB 30-day",
+     "dataGb": 12.0,
+     "days": 30,
+     "price": 450.0,
+     "source": "https://gigago.com/lesotho-sim-card/",
+     "checked": "2024-09-19"
+    }
+   ]
+  },
+  "ML": {
+   "currency": "XOF",
+   "plans": [
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "2 GB 1-day",
+     "dataGb": 2.0,
+     "days": 1,
+     "price": 1000.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    },
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "1 GB 7-day",
+     "dataGb": 1.0,
+     "days": 7,
+     "price": 1000.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    },
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "3 GB 7-day",
+     "dataGb": 3.0,
+     "days": 7,
+     "price": 2000.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    },
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "3 GB 30-day",
+     "dataGb": 3.0,
+     "days": 30,
+     "price": 2000.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    },
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "16 GB 30-day",
+     "dataGb": 16.0,
+     "days": 30,
+     "price": 4500.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    },
+    {
+     "operator": "Moov Africa Malitel",
+     "name": "50 GB 30-day",
+     "dataGb": 50.0,
+     "days": 30,
+     "price": 15000.0,
+     "source": "https://gigago.com/mali-sim-card/",
+     "checked": "2025-03-31"
+    }
+   ]
+  },
+  "MW": {
+   "currency": "MWK",
+   "plans": [
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Daily 1.7GB",
+     "dataGb": 1.7,
+     "days": 1,
+     "price": 1000.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    },
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Weekly 2.6GB",
+     "dataGb": 2.6,
+     "days": 7,
+     "price": 1500.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    },
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Weekly 10GB",
+     "dataGb": 10.0,
+     "days": 7,
+     "price": 5000.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    },
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Weekly 20GB",
+     "dataGb": 20.0,
+     "days": 7,
+     "price": 8000.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    },
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Monthly 30GB",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 15000.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    },
+    {
+     "operator": "Airtel Malawi",
+     "name": "PaNet MoFaya Monthly 65GB",
+     "dataGb": 65.0,
+     "days": 30,
+     "price": 25000.0,
+     "source": "https://gigago.com/malawi-sim-card/",
+     "checked": "2025-03-19"
+    }
+   ]
+  },
+  "NA": {
+   "currency": "NAD",
+   "plans": [
+    {
+     "operator": "MTC",
+     "name": "2 GB 7-day with calls",
+     "dataGb": 2.0,
+     "days": 7,
+     "price": 50.0,
+     "extras": "60 min, 60 SMS",
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    },
+    {
+     "operator": "MTC",
+     "name": "5 GB 7-day with calls",
+     "dataGb": 5.0,
+     "days": 7,
+     "price": 100.0,
+     "extras": "100 min, 100 SMS",
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    },
+    {
+     "operator": "MTC",
+     "name": "18 GB 30-day with calls",
+     "dataGb": 18.0,
+     "days": 30,
+     "price": 290.0,
+     "extras": "300 min, 150 SMS",
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    },
+    {
+     "operator": "MTC",
+     "name": "15 GB 30-day with calls",
+     "dataGb": 15.0,
+     "days": 30,
+     "price": 290.0,
+     "extras": "1,500 min, 1,000 SMS",
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    },
+    {
+     "operator": "TN Mobile",
+     "name": "Unlimited data 1-week",
+     "unlimited": true,
+     "days": 7,
+     "price": 300.0,
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    },
+    {
+     "operator": "TN Mobile",
+     "name": "Unlimited data 1-month",
+     "unlimited": true,
+     "days": 30,
+     "price": 1000.0,
+     "source": "https://gigago.com/namibia-sim-card/",
+     "checked": "2024-08-23"
+    }
+   ]
+  },
+  "MY": {
+   "currency": "MYR",
+   "plans": [
+    {
+     "operator": "CelcomDigi",
+     "name": "Unlimited 15GB high-speed 30-day",
+     "dataGb": 15.0,
+     "slowAfterCap": true,
+     "days": 30,
+     "price": 25.0,
+     "extras": "3 Mbps after 15 GB",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    },
+    {
+     "operator": "CelcomDigi",
+     "name": "55GB high-speed 30-day",
+     "dataGb": 55.0,
+     "slowAfterCap": true,
+     "days": 30,
+     "price": 39.0,
+     "extras": "12 Mbps after cap, unlimited calls, 3 GB hotspot",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    },
+    {
+     "operator": "Maxis",
+     "name": "Hotlink 20GB 7-day",
+     "dataGb": 20.0,
+     "days": 7,
+     "price": 10.0,
+     "extras": "Unlimited calls",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    },
+    {
+     "operator": "U Mobile",
+     "name": "Traveler 25GB 7-day",
+     "dataGb": 25.0,
+     "slowAfterCap": true,
+     "days": 7,
+     "price": 12.0,
+     "extras": "6 Mbps after cap, unlimited local calls",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    },
+    {
+     "operator": "U Mobile",
+     "name": "Traveler 50GB 14-day",
+     "dataGb": 50.0,
+     "slowAfterCap": true,
+     "days": 14,
+     "price": 35.0,
+     "extras": "6 Mbps after cap, unlimited local calls",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    },
+    {
+     "operator": "U Mobile",
+     "name": "Traveler 100GB 30-day",
+     "dataGb": 100.0,
+     "slowAfterCap": true,
+     "days": 30,
+     "price": 35.0,
+     "extras": "6 Mbps after cap, unlimited hotspot",
+     "source": "https://gigago.com/malaysia-sim-card/",
+     "checked": "2025-04-10"
+    }
+   ]
+  },
+  "VN": {
+   "currency": "VND",
+   "plans": [
+    {
+     "operator": "Viettel",
+     "name": "TOUR60",
+     "dataGb": 5.0,
+     "slowAfterCap": true,
+     "days": 15,
+     "price": 60000.0,
+     "source": "https://gigago.com/vietnam-sim-card/",
+     "checked": "2025-11-21"
+    },
+    {
+     "operator": "Viettel",
+     "name": "TOUR100",
+     "unlimited": true,
+     "days": 30,
+     "price": 100000.0,
+     "extras": "20 min calls, 20 min international",
+     "source": "https://gigago.com/vietnam-sim-card/",
+     "checked": "2025-11-21"
+    },
+    {
+     "operator": "Viettel",
+     "name": "TOUR200",
+     "unlimited": true,
+     "days": 30,
+     "price": 200000.0,
+     "extras": "100 min domestic, 20 min international calls",
+     "source": "https://gigago.com/vietnam-sim-card/",
+     "checked": "2025-11-21"
+    },
+    {
+     "operator": "Vinaphone",
+     "name": "1GB/day 15-day",
+     "dataGb": 15.0,
+     "days": 15,
+     "price": 199000.0,
+     "extras": "1 GB per day, 50 min calls, 50 SMS",
+     "source": "https://gigago.com/vietnam-sim-card/",
+     "checked": "2025-11-21"
+    },
+    {
+     "operator": "MobiFone",
+     "name": "Happy Tourist HP2",
+     "dataGb": 8.0,
+     "days": 30,
+     "price": 109000.0,
+     "extras": "40 min local and international calls",
+     "source": "https://gigago.com/vietnam-sim-card/",
+     "checked": "2025-11-21"
     }
    ]
   }
