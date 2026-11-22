@@ -1,6 +1,6 @@
 # RemoteHub Next
 
-**Latest version / آخر إصدار: 2.6 (build 33)** · 55 MB · 2026-11-22
+**Latest version / آخر إصدار: 2.7 (build 34)** · 22 MB · 2026-11-22
 
 [Download the APK / تنزيل التطبيق](https://github.com/markll911-oss/remotehub-releases/raw/main/RemoteHub-Next.apk)
 
