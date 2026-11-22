@@ -1,0 +1,462 @@
+{
+ "version": 1,
+ "updated": "2026-11-23",
+ "note": "Every figure is copied from the page in 'source' as of 'checked'. The weekly refresh updates this file; edit here to correct an entry.",
+ "countries": {
+  "AE": {
+   "visa": "Remote work visa",
+   "applyUrl": "https://u.ae/en/archived-content/residence-visa/remote-work-visas",
+   "source": "https://u.ae/en/archived-content/residence-visa/remote-work-visas",
+   "authority": "Federal Authority for Identity, Citizenship, Customs and Ports Security (ICP)",
+   "authorityAr": "الهيئة الاتحادية للهوية والجنسية والجمارك وأمن المنافذ",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "fee": {
+    "amount": 287,
+    "currency": "USD"
+   },
+   "feeNote": "Plus UAE medical insurance and processing fees",
+   "feeNoteAr": "يضاف التأمين الصحي الإماراتي ورسوم المعالجة"
+  },
+  "AG": {
+   "visa": "Nomad Digital Residence",
+   "applyUrl": "https://antiguanomadresidence.com/",
+   "source": "https://antigua-barbuda.com/ova_sev/nomad-digital-residence-visa-programme/",
+   "authority": "Government of Antigua and Barbuda (official site)",
+   "authorityAr": "حكومة أنتيغوا وباربودا (الموقع الرسمي)",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 24,
+   "minIncome": {
+    "amount": 50000,
+    "currency": "USD",
+    "per": "year"
+   },
+   "fee": {
+    "amount": 1500,
+    "currency": "USD"
+   },
+   "feeNote": "Couple USD 2,000; family of 3+ USD 3,000",
+   "feeNoteAr": "للزوجين 2,000 دولار؛ للعائلة من 3 فأكثر 3,000 دولار"
+  },
+  "AR": {
+   "visa": "Transitory residence – digital nomad",
+   "applyUrl": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+   "source": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+   "authority": "National Directorate of Migration",
+   "authorityAr": "المديرية الوطنية للهجرة",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 6
+  },
+  "BB": {
+   "visa": "Barbados Welcome Stamp",
+   "applyUrl": "https://barbadoswelcomestamp.bb/applynow/",
+   "source": "https://visitbarbados.org/barbados-welcome-stamp",
+   "authority": "Barbados Welcome Stamp (Government of Barbados)",
+   "authorityAr": "برنامج Welcome Stamp (حكومة باربادوس)",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 50000,
+    "currency": "USD",
+    "per": "year"
+   },
+   "fee": {
+    "amount": 2000,
+    "currency": "USD"
+   },
+   "feeNote": "Family: USD 3,000",
+   "feeNoteAr": "للعائلة: 3,000 دولار"
+  },
+  "BS": {
+   "visa": "BEATS – Extended Access Travel Stay",
+   "applyUrl": "https://portal.immigration.gov.bs/",
+   "source": "https://www.bahamasbeats.com/faq",
+   "authority": "Bahamas Department of Immigration",
+   "authorityAr": "دائرة الهجرة في الباهاماس",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "fee": {
+    "amount": 1025,
+    "currency": "USD"
+   },
+   "feeNote": "USD 25 application plus USD 1,000 permit; each dependant USD 525",
+   "feeNoteAr": "25 دولار للطلب و1,000 دولار للتصريح؛ 525 دولار لكل مرافق"
+  },
+  "CO": {
+   "visa": "Visa V – Digital nomads",
+   "applyUrl": "https://www.cancilleria.gov.co/tramites_servicios/visa/requisitos",
+   "source": "https://cancilleria.gov.co/en/node/26950",
+   "authority": "Ministry of Foreign Affairs (Cancillería)",
+   "authorityAr": "وزارة الخارجية الكولومبية",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 24,
+   "incomeNote": "3 times Colombia's monthly minimum wage, over the last 3 months",
+   "incomeNoteAr": "3 أضعاف الحد الأدنى للأجور في كولومبيا، خلال آخر 3 أشهر"
+  },
+  "CR": {
+   "visa": "Stay for remote workers (digital nomads)",
+   "applyUrl": "https://tramiteya.go.cr/dgme/",
+   "source": "https://visitcostarica.com/digital-nomads/requirements",
+   "authority": "General Directorate of Migration (DGME)",
+   "authorityAr": "المديرية العامة للهجرة (DGME)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 3000,
+    "currency": "USD",
+    "per": "month"
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "feeNote": "USD 4,000 a month income when bringing dependants",
+   "feeNoteAr": "الدخل المطلوب 4,000 دولار شهريًا مع المرافقين"
+  },
+  "CY": {
+   "visa": "Digital Nomad Visa",
+   "applyUrl": "https://moi.gov.cy/moi/CRMD/crmd.nsf/All/BF9908B541BFF7D3C22587EA003CD306",
+   "source": "https://moi.gov.cy/moi/CRMD/crmd.nsf/All/BF9908B541BFF7D3C22587EA003CD306",
+   "authority": "Civil Registry and Migration Department",
+   "authorityAr": "دائرة السجل المدني والهجرة",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 3500,
+    "currency": "EUR",
+    "per": "month"
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "EUR"
+   },
+   "feeNote": "Residence permit; plus EUR 70 for the aliens' registry",
+   "feeNoteAr": "تصريح الإقامة؛ تضاف 70 يورو للتسجيل في سجل الأجانب"
+  },
+  "DM": {
+   "visa": "Work In Nature (WIN) Extended Stay Visa",
+   "applyUrl": "https://windominica.gov.dm/",
+   "source": "https://investdominica.com/talent/remote-worker-program/",
+   "authority": "Invest Dominica Authority",
+   "authorityAr": "هيئة الاستثمار في دومينيكا",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 18
+  },
+  "EE": {
+   "visa": "Digital Nomad Visa",
+   "applyUrl": "https://eelviisataotlus.vm.ee/",
+   "source": "https://e-resident.gov.ee/nomadvisa/",
+   "authority": "Estonian embassy (online application)",
+   "authorityAr": "سفارة إستونيا (طلب أونلاين)",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 4500,
+    "currency": "EUR",
+    "per": "month"
+   }
+  },
+  "ES": {
+   "visa": "International Remote Work Residence Visa",
+   "applyUrl": "https://exteriores.gob.es/Consulados/hongkong/en/ServiciosConsulares/Paginas/Consular/Visados-International-Remote-Work-Residence.aspx",
+   "source": "https://exteriores.gob.es/Consulados/hongkong/en/ServiciosConsulares/Paginas/Consular/Visados-International-Remote-Work-Residence.aspx",
+   "authority": "Spanish embassy or consulate",
+   "authorityAr": "سفارة أو قنصلية إسبانيا",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "incomeNote": "200% of Spain's monthly minimum wage (SMI)",
+   "incomeNoteAr": "200% من الحد الأدنى للأجور الشهري في إسبانيا",
+   "fee": {
+    "amount": 90,
+    "currency": "EUR"
+   },
+   "feeNote": "Visa fee; other rates apply to some nationalities",
+   "feeNoteAr": "رسوم التأشيرة؛ تختلف لبعض الجنسيات"
+  },
+  "GR": {
+   "visa": "Digital nomad national visa (type D)",
+   "applyUrl": "https://www.mfa.gr/uk/en/greece-welcomes-digital-nomads/",
+   "source": "https://www.mfa.gr/uk/en/greece-welcomes-digital-nomads/",
+   "authority": "Greek embassy or consulate",
+   "authorityAr": "سفارة أو قنصلية اليونان",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 3500,
+    "currency": "EUR",
+    "per": "month"
+   }
+  },
+  "HR": {
+   "visa": "Temporary stay of digital nomads",
+   "applyUrl": "https://digitalnomadscroatia.mup.hr/Pages/Zahtjev2",
+   "source": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833",
+   "authority": "Croatian Ministry of the Interior (online), police or consulate",
+   "authorityAr": "وزارة الداخلية الكرواتية (أونلاين) أو الشرطة أو القنصلية",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 18,
+   "minIncome": {
+    "amount": 3622.5,
+    "currency": "EUR",
+    "per": "month"
+   },
+   "fee": {
+    "amount": 55.74,
+    "currency": "EUR"
+   },
+   "feeNote": "Temporary stay fee; plus EUR 93 for a D visa or EUR 41.14 for the residence card",
+   "feeNoteAr": "رسوم الإقامة المؤقتة؛ تضاف 93 يورو لتأشيرة D أو 41.14 يورو لبطاقة الإقامة"
+  },
+  "HU": {
+   "visa": "White Card",
+   "applyUrl": "https://enterhungary.gov.hu/eh/?en",
+   "source": "https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads",
+   "authority": "National Directorate-General for Aliens Policing (Enter Hungary)",
+   "authorityAr": "المديرية العامة لشؤون الأجانب (Enter Hungary)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 3000,
+    "currency": "EUR",
+    "per": "month"
+   }
+  },
+  "ID": {
+   "visa": "E33G Remote worker visa",
+   "applyUrl": "https://evisa.imigrasi.go.id/",
+   "source": "https://imigrasi.go.id/wna/daftar-visa-indonesia/E33G",
+   "authority": "Directorate General of Immigration (e-Visa)",
+   "authorityAr": "المديرية العامة للهجرة (تأشيرة إلكترونية)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 60000,
+    "currency": "USD",
+    "per": "year"
+   },
+   "fee": {
+    "amount": 7000000,
+    "currency": "IDR"
+   }
+  },
+  "IS": {
+   "visa": "Long-term visa for remote work",
+   "applyUrl": "https://island.is/en/get-long-term-visa-for-remote-workers",
+   "source": "https://island.is/en/get-long-term-visa-for-remote-workers",
+   "authority": "Directorate of Immigration",
+   "authorityAr": "مديرية الهجرة في آيسلندا",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 6,
+   "minIncome": {
+    "amount": 1000000,
+    "currency": "ISK",
+    "per": "month"
+   },
+   "fee": {
+    "amount": 12200,
+    "currency": "ISK"
+   },
+   "feeNote": "Processing fee",
+   "feeNoteAr": "رسوم المعالجة"
+  },
+  "IT": {
+   "visa": "Digital Nomad / Remote Worker Visa",
+   "applyUrl": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/",
+   "source": "https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/",
+   "authority": "Italian embassy or consulate",
+   "authorityAr": "سفارة أو قنصلية إيطاليا",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 24789,
+    "currency": "EUR",
+    "per": "year"
+   }
+  },
+  "KE": {
+   "visa": "Class N permit (digital nomads)",
+   "applyUrl": "https://fns.immigration.go.ke/",
+   "source": "https://fns.immigration.go.ke/infopack/permits/classN/",
+   "authority": "Department of Immigration (eFNS portal)",
+   "authorityAr": "دائرة الهجرة (بوابة eFNS)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 24,
+   "fee": {
+    "amount": 1200,
+    "currency": "USD"
+   },
+   "feeNote": "USD 200 processing plus USD 1,000 a year issuance",
+   "feeNoteAr": "200 دولار رسوم معالجة و1,000 دولار سنويًا رسوم إصدار"
+  },
+  "KR": {
+   "visa": "Workation (digital nomad) visa F-1-D",
+   "applyUrl": "https://overseas.mofa.go.kr/us-houston-en/brd/m_5573/view.do?seq=759909",
+   "source": "https://overseas.mofa.go.kr/us-houston-en/brd/m_5573/view.do?seq=759909",
+   "authority": "Korean embassy or consulate",
+   "authorityAr": "سفارة أو قنصلية كوريا",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "incomeNote": "Twice Korea's GNI per person for the last year (85 million won in 2023)",
+   "incomeNoteAr": "ضعف نصيب الفرد من الدخل القومي في كوريا للعام الماضي (85 مليون وون في 2023)",
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "feeNote": "Fee for US citizens; varies by nationality",
+   "feeNoteAr": "رسوم للمواطنين الأمريكيين؛ تختلف حسب الجنسية"
+  },
+  "KY": {
+   "visa": "Global Citizen Concierge Program",
+   "applyUrl": "https://www.visitcaymanislands.com/",
+   "source": "https://www.visitcaymanislands.com/en-gb/ourcayman/news/2020/october/cayman-islands-launches-global-citizen-concierge-p",
+   "authority": "Cayman Islands Department of Tourism",
+   "authorityAr": "دائرة السياحة في جزر كايمان",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 24,
+   "minIncome": {
+    "amount": 100000,
+    "currency": "USD",
+    "per": "year"
+   },
+   "fee": {
+    "amount": 1469,
+    "currency": "USD"
+   },
+   "feeNote": "A year, for up to 2 people; USD 500 per dependant",
+   "feeNoteAr": "سنويًا لشخصين كحد أقصى؛ 500 دولار لكل مرافق"
+  },
+  "MT": {
+   "visa": "Nomad Residence Permit",
+   "applyUrl": "https://portal.residencymalta.gov.mt/landing",
+   "source": "https://nomad.residencymalta.gov.mt/nomad-eligibility/",
+   "authority": "Residency Malta Agency",
+   "authorityAr": "وكالة الإقامة في مالطا",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "minIncome": {
+    "amount": 42000,
+    "currency": "EUR",
+    "per": "year"
+   }
+  },
+  "MU": {
+   "visa": "Premium Visa",
+   "applyUrl": "https://edbmauritius.org/",
+   "source": "https://mauritius.com/premium-visa",
+   "authority": "Economic Development Board (EDB)",
+   "authorityAr": "مجلس التنمية الاقتصادية (EDB)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12,
+   "minIncome": {
+    "amount": 1500,
+    "currency": "USD",
+    "per": "month"
+   }
+  },
+  "MX": {
+   "visa": "Temporary resident visa (economic solvency)",
+   "applyUrl": "https://consulmex.sre.gob.mx/houston/index.php/tempresvisafinsolvency",
+   "source": "https://consulmex.sre.gob.mx/houston/index.php/tempresvisafinsolvency",
+   "authority": "Mexican consulate",
+   "authorityAr": "قنصلية المكسيك",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 48,
+   "minIncome": {
+    "amount": 4394.11,
+    "currency": "USD",
+    "per": "month"
+   },
+   "feeNote": "Income after tax for each of the last 6 months; or savings of about USD 73,235",
+   "feeNoteAr": "دخل بعد الضرائب لكل شهر من آخر 6 أشهر، أو مدخرات بنحو 73,235 دولار"
+  },
+  "MY": {
+   "visa": "DE Rantau Nomad Pass",
+   "applyUrl": "https://malaysiadigital.mdec.my/",
+   "source": "https://mdec.my/derantau/foreign",
+   "authority": "Malaysia Digital Economy Corporation (MDEC)",
+   "authorityAr": "مؤسسة الاقتصاد الرقمي الماليزية (MDEC)",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 12
+  },
+  "PA": {
+   "visa": "Short-stay visa for remote workers",
+   "applyUrl": "https://www.migracion.gob.pa/",
+   "source": "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf",
+   "authority": "National Migration Service",
+   "authorityAr": "الخدمة الوطنية للهجرة",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 9,
+   "minIncome": {
+    "amount": 36000,
+    "currency": "USD",
+    "per": "year"
+   },
+   "fee": {
+    "amount": 250,
+    "currency": "USD"
+   },
+   "feeNote": "Application; plus USD 50 for the ID card (amounts in balboas, equal to dollars)",
+   "feeNoteAr": "رسوم الطلب؛ تضاف 50 دولارًا للبطاقة (المبالغ بالبالبوا وتساوي الدولار)"
+  },
+  "PT": {
+   "visa": "Temporary stay visa for remote work (digital nomads)",
+   "applyUrl": "https://www.vfsglobal.com/one-pager/portugal/usa/english/pdf/temporary-stay-visa-for-remote-work-digital-nomads.pdf",
+   "source": "https://www.vfsglobal.com/one-pager/portugal/usa/english/pdf/temporary-stay-visa-for-remote-work-digital-nomads.pdf",
+   "authority": "Portuguese consulate (through VFS Global)",
+   "authorityAr": "قنصلية البرتغال (عبر VFS Global)",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "incomeNote": "4 times Portugal's monthly minimum wage, on average over the last 3 months",
+   "incomeNoteAr": "4 أضعاف الحد الأدنى للأجور في البرتغال، كمتوسط آخر 3 أشهر"
+  },
+  "TR": {
+   "visa": "Digital nomad visa",
+   "applyUrl": "https://digitalnomads.goturkiye.com/",
+   "source": "https://newyork-cg.mfa.gov.tr/Content/assets/consulate/images/localCache/1/935ef080-0224-43f0-874a-646c248c7c8e.pdf",
+   "authority": "Turkish consulate (visa.gov.tr) after the Go Türkiye nomad certificate",
+   "authorityAr": "القنصلية التركية (visa.gov.tr) بعد شهادة الرحالة من Go Türkiye",
+   "renewable": false,
+   "checked": "2026-11-23",
+   "stayMonths": 3,
+   "fee": {
+    "amount": 185,
+    "currency": "USD"
+   },
+   "feeNote": "Single entry, for US citizens (multiple entry USD 265)",
+   "feeNoteAr": "دخول واحد للمواطنين الأمريكيين (متعدد 265 دولار)"
+  },
+  "UY": {
+   "visa": "Residence for digital nomads",
+   "applyUrl": "https://www.gub.uy/tramites/hoja-identidad-provisoria",
+   "source": "https://www.uruguayxxi.gub.uy/en/news/article/digital-nomads-will-be-able-to-legally-live-and-work-in-uruguay/",
+   "authority": "National Directorate of Migration",
+   "authorityAr": "المديرية الوطنية للهجرة",
+   "renewable": true,
+   "checked": "2026-11-23",
+   "stayMonths": 6
+  }
+ }
+}
