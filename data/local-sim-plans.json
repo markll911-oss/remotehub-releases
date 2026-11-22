@@ -9093,6 +9093,41 @@
      "checked": "2024-09-05"
     }
    ]
+  },
+  "ID": {
+   "currency": "IDR",
+   "plans": [
+    {
+     "operator": "Indosat Ooredoo",
+     "name": "Travel On 30GB",
+     "dataGb": 30.0,
+     "days": 30,
+     "price": 100000.0,
+     "extras": "10 call minutes",
+     "source": "https://gigago.com/indonesia-sim-card/",
+     "checked": "2025-08"
+    },
+    {
+     "operator": "Indosat Ooredoo",
+     "name": "Travel On 80GB",
+     "dataGb": 80.0,
+     "days": 30,
+     "price": 200000.0,
+     "extras": "30 call minutes",
+     "source": "https://gigago.com/indonesia-sim-card/",
+     "checked": "2025-08"
+    },
+    {
+     "operator": "Telkomsel",
+     "name": "Tourist SIMPATI",
+     "dataGb": 25.0,
+     "days": 30,
+     "price": 150000.0,
+     "extras": "25 voice minutes",
+     "source": "https://gigago.com/indonesia-sim-card/",
+     "checked": "2025-08"
+    }
+   ]
   }
  }
 }
