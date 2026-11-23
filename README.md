@@ -1,6 +1,7 @@
 # RemoteHub Next
 
-**Latest version / آخر إصدار: 2.7 (build 34)** · 22 MB · 2026-11-22
+**Latest version / آخر إصدار: 2.8 (build 35)** · 21 MB · 2026-11-23
+- 2.8 is signed with a new key: uninstall 2.7 or older once, then install 2.8. / النسخة 2.8 موقعة بمفتاح جديد: احذف 2.7 أو أقدم مرة وحدة ثم ثبّت 2.8.
 
 [Download the APK / تنزيل التطبيق](https://github.com/markll911-oss/remotehub-releases/raw/main/RemoteHub-Next.apk)
 
